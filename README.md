@@ -18,17 +18,6 @@ An end-to-end ML pipeline to predict customer churn for a telecom company. It co
    * Visualize feature importance
    * Summarize insights & churn patterns
 
-**Folder Structure**
-CHURN/
-├── 01_data_cleaning.ipynb
-├── 02_model_training.ipynb
-├── 03_model_inference.ipynb
-├── 04_reporting.ipynb
-├── data/
-│   ├── raw/
-│   └── processed/
-└── models/
-
 **Dataset**
 Telo Communication Churn Dataset
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
