@@ -1,5 +1,5 @@
 **Telo Churn Prediction Pipeline**
-An end-to-end ML pipeline to predict customer churn for a telecom company. It covers data clearning, feature engineering, model training, inference, and reporting.
+An end-to-end ML pipeline to predict customer churn for a telecom company. It covers data cleaning, feature engineering, model training, inference, and reporting.
 
 1. Data Preprocessing
    * Handle missing values
